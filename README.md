@@ -3,7 +3,7 @@ This project is a website for Sundown Studio, designed to showcase animation pro
 
 ## Active Link Section:
 
-# 🌐 **Live Demo:**  :point_right: [Sundown Studio Designed by N](https://nishikant4246.github.io/SunDown-Studio/index.html) 
+# 🌐 **Live Demo:**  :point_right: [Sundown Studio Designed by N](https://nishikant4246.github.io/SunDown-Studio-web/) 
 
 ## Follow Me on 😉  :computer:
 
