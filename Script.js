@@ -70,7 +70,9 @@ page4Animation();
 menuAnmation();
 
 
-
+document.addEventListener("contextmenu",function(e){
+   e.preventDefault()
+}, false)
 // Working 
 
 // let TheBoss = document.querySelector("#TheBoss");
